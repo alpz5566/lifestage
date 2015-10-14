@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/life/!svn/ver/25/stage/src/com/youngball/stage/bean
+END
+renttypeBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/life/!svn/ver/12/stage/src/com/youngball/stage/bean/renttypeBean.java
+END
+resume_infoBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/life/!svn/ver/4/stage/src/com/youngball/stage/bean/resume_infoBean.java
+END
+skillBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/life/!svn/ver/4/stage/src/com/youngball/stage/bean/skillBean.java
+END
+userBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/life/!svn/ver/12/stage/src/com/youngball/stage/bean/userBean.java
+END
+salaryBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/life/!svn/ver/12/stage/src/com/youngball/stage/bean/salaryBean.hbm.xml
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/life/!svn/ver/2/stage/src/com/youngball/stage/bean/Person.java
+END
+exprienceBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/life/!svn/ver/4/stage/src/com/youngball/stage/bean/exprienceBean.java
+END
+regionalBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/life/!svn/ver/14/stage/src/com/youngball/stage/bean/regionalBean.hbm.xml
+END
+house_typeBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/life/!svn/ver/12/stage/src/com/youngball/stage/bean/house_typeBean.java
+END
+towardBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/life/!svn/ver/12/stage/src/com/youngball/stage/bean/towardBean.hbm.xml
+END
+priceBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/life/!svn/ver/12/stage/src/com/youngball/stage/bean/priceBean.hbm.xml
+END
+certicateBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/life/!svn/ver/4/stage/src/com/youngball/stage/bean/certicateBean.hbm.xml
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/life/!svn/ver/2/stage/src/com/youngball/stage/bean/User.java
+END
+positionBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/life/!svn/ver/4/stage/src/com/youngball/stage/bean/positionBean.hbm.xml
+END
+salaryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/life/!svn/ver/12/stage/src/com/youngball/stage/bean/salaryBean.java
+END
+natureBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/life/!svn/ver/12/stage/src/com/youngball/stage/bean/natureBean.java
+END
+renttypeBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/life/!svn/ver/12/stage/src/com/youngball/stage/bean/renttypeBean.hbm.xml
+END
+educationBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/life/!svn/ver/12/stage/src/com/youngball/stage/bean/educationBean.hbm.xml
+END
+userBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/life/!svn/ver/12/stage/src/com/youngball/stage/bean/userBean.hbm.xml
+END
+skillBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/life/!svn/ver/4/stage/src/com/youngball/stage/bean/skillBean.hbm.xml
+END
+educationexperBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/life/!svn/ver/4/stage/src/com/youngball/stage/bean/educationexperBean.hbm.xml
+END
+certicateBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/life/!svn/ver/4/stage/src/com/youngball/stage/bean/certicateBean.java
+END
+situationBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/life/!svn/ver/12/stage/src/com/youngball/stage/bean/situationBean.hbm.xml
+END
+employment_infoBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/life/!svn/ver/14/stage/src/com/youngball/stage/bean/employment_infoBean.java
+END
+Person.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/life/!svn/ver/2/stage/src/com/youngball/stage/bean/Person.hbm.xml
+END
+exprienceBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/life/!svn/ver/4/stage/src/com/youngball/stage/bean/exprienceBean.hbm.xml
+END
+company_registeredBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/life/!svn/ver/23/stage/src/com/youngball/stage/bean/company_registeredBean.hbm.xml
+END
+apartment_rentBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/life/!svn/ver/16/stage/src/com/youngball/stage/bean/apartment_rentBean.hbm.xml
+END
+house_typeBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/life/!svn/ver/12/stage/src/com/youngball/stage/bean/house_typeBean.hbm.xml
+END
+welfareBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/life/!svn/ver/12/stage/src/com/youngball/stage/bean/welfareBean.hbm.xml
+END
+educationBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/life/!svn/ver/12/stage/src/com/youngball/stage/bean/educationBean.java
+END
+jobtypeBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/life/!svn/ver/12/stage/src/com/youngball/stage/bean/jobtypeBean.java
+END
+User.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/life/!svn/ver/7/stage/src/com/youngball/stage/bean/User.hbm.xml
+END
+imgBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/life/!svn/ver/21/stage/src/com/youngball/stage/bean/imgBean.java
+END
+languange_abilityBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/life/!svn/ver/4/stage/src/com/youngball/stage/bean/languange_abilityBean.java
+END
+educationexperBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/life/!svn/ver/4/stage/src/com/youngball/stage/bean/educationexperBean.java
+END
+situationBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/life/!svn/ver/12/stage/src/com/youngball/stage/bean/situationBean.java
+END
+natureBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/life/!svn/ver/12/stage/src/com/youngball/stage/bean/natureBean.hbm.xml
+END
+company_registeredBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/life/!svn/ver/19/stage/src/com/youngball/stage/bean/company_registeredBean.java
+END
+apartment_rentBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/life/!svn/ver/16/stage/src/com/youngball/stage/bean/apartment_rentBean.java
+END
+welfareBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/life/!svn/ver/12/stage/src/com/youngball/stage/bean/welfareBean.java
+END
+monny_typeBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/life/!svn/ver/12/stage/src/com/youngball/stage/bean/monny_typeBean.hbm.xml
+END
+employment_infoBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/life/!svn/ver/16/stage/src/com/youngball/stage/bean/employment_infoBean.hbm.xml
+END
+resume_infoBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/life/!svn/ver/4/stage/src/com/youngball/stage/bean/resume_infoBean.hbm.xml
+END
+regionalBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/life/!svn/ver/14/stage/src/com/youngball/stage/bean/regionalBean.java
+END
+jobtypeBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/life/!svn/ver/12/stage/src/com/youngball/stage/bean/jobtypeBean.hbm.xml
+END
+towardBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/life/!svn/ver/12/stage/src/com/youngball/stage/bean/towardBean.java
+END
+imgBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/life/!svn/ver/25/stage/src/com/youngball/stage/bean/imgBean.hbm.xml
+END
+monny_typeBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/life/!svn/ver/12/stage/src/com/youngball/stage/bean/monny_typeBean.java
+END
+priceBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/life/!svn/ver/12/stage/src/com/youngball/stage/bean/priceBean.java
+END
+languange_abilityBean.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/life/!svn/ver/4/stage/src/com/youngball/stage/bean/languange_abilityBean.hbm.xml
+END
+positionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/life/!svn/ver/4/stage/src/com/youngball/stage/bean/positionBean.java
+END

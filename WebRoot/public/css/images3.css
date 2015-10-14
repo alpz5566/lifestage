@@ -1,0 +1,16 @@
+*{padding:0px; margin:0px;}
+img {border:none;}
+.imageUl{ height:685px;}
+#rightbarTop h1{color:#d64e00;}
+.turn_page_ul{ margin-top:0px; *+margin-top:40px;_margin-top:-40px;}
+.photoblock-many{margin-left:-40px;}
+.greBackground {width:100%;height:940px;position:absolute;top:0;background-color:#000;opacity: 0.1;-ms-filter: "alpha(opacity=60)"; /* IE 8 */ filter: alpha(opacity=60);  /* IE 4-7 */}
+.closebtn{position:absolute; z-index:666666; cursor:pointer; margin-top:-1290px; margin-left:1080px; *+margin-top:-1280px; *+margin-left:1076px; _margin-left:1072px; _margin-top:-1284px;}
+#bannerbox{height:616px; width:752px; position:absolute; z-index:9999;  background:white; margin:-130px 0 0 260px; text-align:center; padding-top:100px; *+margin-left:80px; padding-left:100px; display:none;}
+#bannerbox img{height:480px; width:638px;}
+#focus { width: 672px; height: 447px; clear: both; overflow: hidden; position: relative; float: left; }
+#focus ul { width: 672px; height: 447px; float: left; position: absolute; clear: both; padding: 0px; margin: 0px; }
+#focus ul li { float: left; width: 672px; height: 447px; overflow: hidden; position: relative; padding: 0px; margin: 0px; }
+#focus .preNext { width: 550px; height: 447px; position: absolute; top: 0px; cursor: pointer; }
+#focus .pre {left: 0; background: url(../images/sprite.png) no-repeat left center; }
+#focus .next {right: 0; background: url(../images/sprite1.png) no-repeat right center; }

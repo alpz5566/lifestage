@@ -1,0 +1,17 @@
+BODY {FONT-SIZE: 12px;}
+img{border:0px}
+ul,li{margin:0;padding:0;}
+.pb {WIDTH: 1002px;}
+.pb .steps {BACKGROUND:url(../images/index_neck_shoulders.png) no-repeat left top}
+.pb .points LI {BACKGROUND:url(../images/index_neck_shoulders.png) no-repeat left top}
+.pb .switcher {BACKGROUND:url(../images/index_neck_shoulders.png) no-repeat left top}
+.pb .banners {FLOAT: left;width:978px;height:90px;}
+.pb .banners LI {DISPLAY: none; OVERFLOW: hidden; WIDTH:978px; HEIGHT:90px}
+.pb .banners LI.current {DISPLAY: block}
+.pb .switcher {BACKGROUND-POSITION: left -76px; FLOAT: right; WIDTH: 24px; HEIGHT: 90px;text-align:center;}
+.pb .points {MARGIN: 8px auto 0px; WIDTH: 19px;FONT-FAMILY: Arial}
+.pb .points LI {BACKGROUND-POSITION: -26px -76px; MARGIN: 0px 0px 6px 3px; OVERFLOW: hidden; WIDTH: 16px; CURSOR: pointer; COLOR: #fff; LINE-HEIGHT: 15px; FONT-FAMILY: Arial; HEIGHT: 15px; TEXT-ALIGN: center}
+.pb .points LI.current {BACKGROUND-POSITION: -45px -76px; MARGIN-LEFT: 0px; WIDTH: 19px; TEXT-INDENT: 3px; TEXT-ALIGN: center}
+.pb .steps {BACKGROUND-POSITION: -26px -93px; MARGIN: 0px 0px 0px 3px; WIDTH: 16px; BOTTOM: 3px; FLOAT: left;HEIGHT: 23px; _overflow: hidden;}
+.pb .steps .up {WIDTH: 15px; CURSOR: pointer; HEIGHT: 11px}
+.pb .steps .down {WIDTH: 15px; CURSOR: pointer; HEIGHT: 11px}

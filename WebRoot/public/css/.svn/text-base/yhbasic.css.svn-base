@@ -1,0 +1,86 @@
+.yhContent{width:1000px; height:478px; margin:6px auto 7px auto; border:1px solid #b9dcf2; background-color:#ffffff;}
+/* 左边 */
+.yhLeft{width:713px;float:left; border-right:1px solid #e9e9e9;}
+.hyzc{font-size:22px; font-family:微软雅黑; color:#004a92; padding-left:43px; padding-top:25px;}
+.yhLeftul{width:432px; height:auto; margin-left:165px; margin-top:30px; _margin-top:0px;}
+.yhLeftul li{height:30px; line-height:30px;  margin-bottom:20px; padding-left:19px;}
+.yhlistar{background:url(../images/yhstar.gif) no-repeat 0 center;}
+.yhpass{float:left; position:relative; left:30px; font-size:14px; width:70px; height:28px; line-height:28px; display:inline-block; color:#c5c5c5;}
+.yhinput{width:184px; height:28px; padding-left:28px; border:1px solid #e4e4e4; font-size:14px; color:#c5c5c5; line-height:28px;}
+#yhname{background:url(../images/yhname.gif) no-repeat 5px center;}
+#yhpassword{margin-left:-70px;background:url(../images/yhpassword.gif) no-repeat 5px center;}
+#yhenterpass{margin-left:-70px;background:url(../images/yhenterpass.gif) no-repeat 5px center;}
+#yhemail{background:url(../images/yhemail.gif) no-repeat 5px center;}
+#yhphone{background:url(../images/yhphone.gif) no-repeat 5px center;}
+#yhcode{width:106px; float:left;}
+.yhcodeimg{margin-left:15px;}
+.yhbeizhu{font-size:12px; color:#0190de; vertical-align:text-middle; margin-left:13px;}
+.yhcheckp{height:12px; font-size:12px; color:#8d8d8d; text-align:center;}
+.yhlabel a{color:#0190de; }
+.yhsubmit{width:120px; height:37px; background:url(../images/yhsubmit.png) no-repeat; border:0px none; font-size:14px; color:#fff; margin:23px 0 0 289px ;}
+.yhlefttishi{height:26px; line-height:26px; width:444px; font-size:12px; color:#8d8d8d;}
+/*右边*/
+.yhRight{width:285px; float:right;}
+.yhrightSub{width:246px; height:24px; padding-left:20px; padding-top:50px;}
+.yhrightSub input{width:120px; height:24px; border:0px none; }
+.yhqqenter{background:url(../images/yhqqenter.gif) no-repeat; float:left;}
+.yhweiboenter{background:url(../images/yhweiboenter.gif) no-repeat; float:right;}
+.yhrightp{font-size:14px; color:#8d8d8d; padding-left:115px;  height:25px; }
+.yhrightp a{color:#0190de; text-align:center; }
+#yhenter{padding-top:20px;}
+.yhtishi{width:210px; height:25px; line-height:25px; text-align:center; margin-left:34px; margin-top:152px; font-size:12px; color:#8d8d8d;}
+
+/*注册页面*/
+#yhContentzc,#yhLeftzc,#yhRightzc{height:478px;}
+/*找回密码*/
+#yhContentwj,#yhLeftwj,#yhRightwj{height:478px;}
+#yhlefttishi1{margin-top:38px; margin-left:160px; }
+#yhlefttishi2{margin-left:189px;}
+#yhzhmima{ background:url(../images/yhzhmima.png) no-repeat;}
+/*修改信息*/
+#yhContentXinx,#yhLeftXinx,#yhRightXinx{height:887px; _height:900px;}
+#hyxg{padding-top:12px;}
+.yhxgxx{width:582px; height:763px; margin-left:66px; margin-top:22px; font-size:14px; color:#767676;}
+.yhxgtx{clear:both;height:136px; width:582px; }
+	.yhtxsz{float:left; height:135px; line-height:135px; display:inline-block; margin-right:10px;}
+	.yhtx{width:134px; height:134px; border:1px solid #dddddd;float:left; margin-right:14px;}
+	.yhxgtxt{float:left; margin-top:50px; width:295px; height:28px; line-height:28px; border:1px solid #e4e4e4;}
+	.yhxgbtn{float:right; margin-top:51px; width:50px; height:28px;background:url(../images/yhxgbtn.png) no-repeat; border:0 none; font-size:12px; color:#363636;} 
+	.yhtxfile{float:left; margin-top:-30px;  filter:alpha(opacity:0); opacity: 0;  width:349px; height:30px;border:0 none;_filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0);} 
+	.xgtxtis{width:349px; height:28px; line-height:28px; float:right; font-size:12px; color:#0078d5;}
+.yhxgname{ clear:both; width:107px; font-size:14px; color:#c5c5c5; height:14px; line-height:14px; margin-left:77px; margin-top:20px;}
+	.yhxgname span{color:#4f4f4f;}
+.yhxgpassword{width:346px; height:168px; margin:35px 0 0 60px;}
+	.yhxgpassword p{height:22px; line-height:22px;}
+	.yhxgpassword p img{margin-left:10px; margin-right:8px;}
+	.yhxgpassword p span{font-size:12px; color:#0078d5; cursor:pointer;}
+	.yhxgpassul{list-style:none; width:288px; height:145px;padding-left:56px;}
+	.yhxgpassul li{text-align:right; height:30px; line-height:30px; margin-top:18px;}
+	.yhxgpassul li label{margin-right:8px;height:28px; line-height:28px; display:inline-block; }
+	.yhxgpassul li input{width:212px; height:28px; line-height:28px; border:1px solid #e4e4e4;}
+.xgspanall{display:inline-block; width:127px; text-align:right;}
+.yhxgsex{ margin-top:20px;}
+	.yhxgsex input{font-size:12px;}
+	.yhxgsex label{color:#767676; font-size:12px;}
+.yhxgage{height:30px; line-height:30px; margin-top:29px;}
+	.yhxgage select{height:28px; line-height:28px; text-align:center; font-size:14px; border:1px solid#e4e4e4; color:#c5c5c5;}
+	.yhxgyear{width:101px;}
+	.yhxgmonth,.yhxgday{width:64px;}
+.yhxgadd{height:30px; line-height:30px; margin-top:21px;}
+	.yhxgadd input{width:295px; height:28px; line-height:28px; border:1px solid #e4e4e4;}
+.yhxgcity{height:30px; line-height:30px;margin-top:16px;}
+	.yhxgcity select{width:101px; height:28px; line-height:28px; text-align:center; font-size:14px; border:1px solid#e4e4e4; color:#c5c5c5;}
+.yhxgsign{margin-top:24px;}
+	#xgsign{vertical-align:top;}
+	.yhxgsign textarea{width:406px; height:160px; border:1px solid #e4e4e4; overflow:hidden;}	
+#yhwcxg{  background:url(../images/yhwcxg.png) no-repeat; margin-top:9px;}
+/* 登录页面 */
+#yhContententer{width:100%; height:491px; margin:0 auto; margin-bottom:8px; background:url(../images/yhenterbg.jpg) no-repeat;}
+.yhenterE{width:720px ;height:40px; padding-top:378px; padding-left:316px;}
+	#yhdlname,#yhdlpassword{float:left; width:268px; height:38px;border:1px solid #dddddd; background:#444444; color:#cccccc;}
+	.yhdlpass{float:left; position:relative; left:40px; width:50px; height:40px; line-height:40px; color:#cccccc; display:inline-block;}
+	#yhdlpassword{ margin-left:-40px;}
+.yhdlsub{width:108px; height:40px; float:right; background:url(../images/yhdlsub.gif) no-repeat; border:0 auto;}
+#yhdlright{padding-left:471px; padding-top:16px;}
+.yhdlsrc{font-size:14px; padding-left:516px; padding-top:12px;}
+.yhdlsrc a{margin-right:20px; color:#0190de; }

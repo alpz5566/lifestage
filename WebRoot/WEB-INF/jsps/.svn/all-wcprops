@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/life/!svn/ver/24/stage/WebRoot/WEB-INF/jsps
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/jsps/index.jsp
+END
+success.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/jsps/success.jsp
+END
+savePersonForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/jsps/savePersonForm.jsp
+END
+userList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/jsps/userList.jsp
+END
+updatePersonForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/jsps/updatePersonForm.jsp
+END
+saveUserForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/jsps/saveUserForm.jsp
+END
+personList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/jsps/personList.jsp
+END

@@ -1,0 +1,83 @@
+/* /新闻评论/ */
+.newplContent{height:1226px;width:1000px; border:1px solid #b9dcf2; margin:6px auto 9px auto;background:#ffffff;}
+.newplLeft{width:689px; height:1226px; float:left; }
+.newH1{font-size:24px; font-family:微软雅黑; height:56px; line-height:56px; text-align:center; }
+.newplwypl{width:652px; height:161px; background:#f4f4f4; margin-left:17px; font-size:12px; color:#292929;}
+.newplwyplp{padding-left:15px; height:35px; line-height:35px;width:610px; float:left;}
+.wypl{font-size:14px; float:left;}
+.havepl{float:right;}
+.havepl a{color:#dd0000;}
+.newplwypl textarea{width:620px; height:91px; margin-left:15px; *margin-left:0px;border:0px none; background:#ffffff; overflow:hidden;}
+.newplpinput{width:158px; height:21px; line-height:21px; border:1px solid #d6d6d6; margin-right:20px;float:left; margin-top:7px; }
+.newplpA{width:106px; float:left; display:inline-block; padding-left:35px;}
+.newplzc{color:#292929;}
+.newplshuxian{margin:0 12px 0 12px;}
+.newplfabu{width:59px; margin-top:5px; height:24px; line-height:24px; float:right; background:url(../images/newplfabubg.png) no-repeat center center; border:0px none; color:#535353;}
+.newpllastpl{width:628px; height:200px;margin-left:30px;}
+.newplH2{width:86px; height:34px; line-height:34px; padding-top:6px; float:left; font-size:18px; font-family:微软雅黑; border-bottom:1px solid #c2d9f2;}
+.newpllastplp{width:542px; height:40px; float:right; border-bottom:1px solid #b6b6b6;}
+.newplLmain{width:628px; height:auto; padding:13px 0;color:#3e3e3e;font-size:12px; float:left;}
+.newplhead{margin:0 16px; float:left;}
+.newplname{width:547px; float:left;height:22px;}
+	.newpltime{color:#b7b7b7; padding-left:14px;}
+.newpllastplmain{width:480px;letter-spacing:1px;  font-size:14px; height:auto; line-height:30px; padding-left:18px; float:left;} 
+#newpllastplmain1{width:552px; height:52px; line-height:26px; padding:0px; margin-left:40px;_margin-left:20px;}
+.newplLplzc{width:180px; height:14px; float:left; text-align:right; padding-left: 400px;}
+.newplLplzc a{margin-left:24px; color:#3e3e3e;}
+.newplLplzc a span{color:#a40000;}
+.newplwypl1{margin-top:1px; height:116px; padding}
+.newplwypl1 p{padding-left:17px; padding-top:13px;}
+.newplLmain2{width:650px; height:76px; margin-left:17px; display:inline;  margin-top:10px; padding-top:11px; padding-bottom:21px; border-top:1px solid #e6e6e6; float:left; font-size:12px; color:#292929;}
+.newplhead2{margin:0 14px  0 29px; float:left;}
+.newplMore{width:650px; height:41px; line-height:41px; text-align:center; font-size:14px; display:inline; margin-left:17px; float:left; border-top:1px solid #e6e6e6; border-bottom:1px solid #e6e6e6;}
+.newplMore a{color:#484848;}
+/* 新闻图片文章页 */
+.newpicContet{height:849px;}
+.newpicH1{font-size:24px; font-family:微软雅黑; height:56px; line-height:56px; text-align:left; padding-left:40px; padding-top:4px; }
+.newpictime{color:#8f8f8f; font-size:12px; padding-left:42px; height:14px; line-height:14px; margin-bottom:18px;}
+/* 新闻文章通用页 */
+.newtxtContent{height:1618px;}
+.newtxtLeft{height:1618px;}
+.newtxthead{width:668px; height:35px; line-height:35px;font-size:12px; color:#8e8e8e; margin-left:9px; padding-left:11px; background:url(../images/newtxtheadline.gif) no-repeat 0 bottom; letter-spacing:5px;}
+.newtxthead a{color:#8e8e8e;}
+.newtxtp{width:600px; line-height:38px; font-size:14px; text-indent:30px; letter-spacing:1px; padding-left:47px;}
+.newtxtindex{width:100px; height:26px;line-height:26px; font-size:14px; padding-left:30px; background:url(../images/newtxtindex.gif) no-repeat left center; margin-left:61px;}
+.newtxtindex a{color:#737373}
+.bdsharebuttonbox{float:right; height:36px; line-height:36px; padding-right:53px;} 
+.sharespan{float:left; height:36px; line-height:36px; display:inline-block; font-size:14px;}
+.bdsharebuttonbox a{float:left;}
+.newtxtxina{width:638px; height:220px;  border:1px solid #b9dcf2; clear:both; margin-left:25px; margin-top:20px; font-size:12px;}
+.newtxtxinap{height:42px; line-height:42px; margin-left:9px; padding-left:19px; background:url(../images/newtxtxina.gif) no-repeat left center; color:#0082cb;}
+.newtxtxinaweb{width:86px; height:76px; margin-left:28px; }
+.newtxtxinaweb img{margin-left:11px; margin-bottom:11px;}
+.newtxtxinaweb a{color:#0082cb;}
+.newtxtjoinxina{width:438px; height:27px; line-height:27px; padding-top:52px; padding-left:200px; float:left;}
+.newtxtjoinxina button{width:105px; height:27px;background:url(../images/xinawebbtn.gif) no-repeat; border:0 none; float:left; cursor:pointer;}
+.joinweibo{float:left;margin-left:20px;}
+.newtxtmess{width:588px; height:200px; margin-left:44px; margin-bottom:11px;}
+.newtxtmessp{width:502px;}
+.newtxtmessul{width:554px; height:159px; margin-left:26px; list-style:none; clear:both; font-size:14px; }
+.newtxtmessul li{background:url(../images/newtxtmesslidian.gif) no-repeat left center; height:32px; line-height:32px; padding-left:13px;}
+.newtxtmessul li a{color:#575757; float:left;}
+.newtxtmessul li span{color:#969696; font-size:12px; float:right;}
+.newtxtright{padding-top:16px;}
+.newtxtH2{padding-left:11px; width:75px; color:#0082cb;}
+.newpicul{width:277px; height:234px; margin-top:12px; font-size:12px;}
+.newpicul li{width:135px; height:106px; float:left;}
+.newpiculli1{margin-right:7px;}
+.newpiculli2{margin-bottom:20px;}
+.newpicul li a{display:inline-block; width:135px; text-align:center; margin-top:10px; color:#060606;}
+.newpicul li a{display:inline-block; width:135px; text-align:center; margin-top:10px; color:#}
+/* 视频页面 */
+.newvideoContent{height:665px;}
+.newvideoLeft{width:641px; height:665px; float:left; padding-left:12px; padding-top:10px; }
+	.newvideoV{width:639px; height:534px; border:1px solid #dfdfdf;}
+	.newvideop{font-size:14px; text-indent:28px; margin-top:10px; color:#6e6e6e; line-height:26px;}
+	#newvideoshare{width:240px; padding-right:23px;}
+.newvideoRight{width:324px; height:644px; float:left; margin-left:10px; margin-top:11px; background:#dddddd;}
+.newvideoRul{width:320px; height:644px; margin-left:4px; font-size:12px; overflow:auto;}
+.newvideoRli{width:300px; height:111px; background:url(../images/newvideoRlibg.png) repeat-x bottom;}
+.newvideoRli a{display:block; width:290px; height:90px; margin-left:10px; margin-top:10px; color:#6f6f6f;}
+.newvideoRli a img{border:none; float:left;}
+.newvideoRp{width:146px; float:left; padding-left:14px; line-height:26px;}
+.newvideoRtime{width:104px; float:right; line-height:26px;}

@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* 作者：张金哲 民生在线 骐云公司制作 */
+
+/*全局通用css*/
+html{text-align:center; margin-left:auto; margin-right:auto;}
+body, ul, ol, dl, dt, dd, h1, h2, h3, h4, h5, p, form,div { padding:0px; margin:0px; width:100%;}
+body{margin-left:auto; margin-right:auto; font-family:"微软雅黑","宋体",Georgia, 'Times New Roman', Times, serif; font-size:12px; width:100%; text-align:center; color: #000; height:auto; overflow:auto; background:url(../images/dw.jpg);}
+img{ margin:0px; padding:0px; border:0px;}
+br{ height:0px; padding:0px; margin:0px; line-height:0px;}
+ol,ul,li{padding:0;margin:0}
+ol,ul,li{list-style-type:none;}
+a{text-decoration:none; color: #434343;}
+a:hover{text-decoration:underline;color: #CC0001;}
+a:visited{text-decoration:none;color: #434343;}
+ul li{ list-style: none;}
+.H10{ width:100%; height:10px; line-height:10px; clear:both;}
+.H8{ width:100%; height:8px; line-height:8px; clear:both;}
+.H6{ width:100%; height:6px; line-height:6px; clear:both;}
+
+
+/*第一层*/
+.news-top{width:1002px; height:auto; overflow:hidden; margin:auto; text-align:left; margin-top:5px;}
+.news-top-left{width:381px; height:277px; background:#FFF; float:left;}
+.news-top-left-top{width:85px; height:2px; float:left; background:#2c368b; overflow:hidden;}
+.news-top-left-top2{width:296px; height:2px; background:#d7d7d7; float:left;overflow:hidden;}
+.news-Important{width:300px; height:30px; font-size:16px; font-family:"微软雅黑", "宋体"; text-align:left; text-decoration:none; color:#322800; margin-left:25px;}
+.Important-con{width:360px; height:auto; margin:auto; margin-top:5px; line-height:26px;}
+.Important-con ul li{width:360px; height:auto; font-size:12px; text-decoration:none; color:#888888;}
+.Important-con a{font-size:16px; font-family:"微软雅黑", "宋体"; text-decoration:none; color:#0b0b0b;}
+.news-pic{width:610px; height:277px; margin-left:11px; background:#FFF; float:left;}

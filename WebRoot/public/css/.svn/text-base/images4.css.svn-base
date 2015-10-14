@@ -1,0 +1,6 @@
+
+.closebtn_baidu{position:absolute; z-index:666666; cursor:pointer; margin-top:-672px; margin-left:1130px; *+margin-left:1148px; _margin-left:1174px; _margin-top:-644px;}
+#baidu_ditu{position:absolute; height:376px; width:676px; background:white; margin-top:-380px; margin-left:300px; display:none; z-index:1000; *+margin-left:50px;}
+.allamg{ height:800px; width:276px;}
+.dianji_ditu{color:#9fb9dc;}
+#allmap{height:376px; width:676px;}

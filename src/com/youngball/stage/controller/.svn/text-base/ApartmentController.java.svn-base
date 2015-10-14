@@ -1,0 +1,186 @@
+package com.youngball.stage.controller;
+
+import java.io.File;
+import java.io.UnsupportedEncodingException;
+import java.util.List;
+
+import javax.annotation.Resource;
+import javax.servlet.ServletContext;
+import javax.servlet.http.HttpServletRequest;
+
+import net.sf.json.JSONArray;
+import net.sf.json.JSONObject;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.context.ServletContextAware;
+
+import com.youngball.stage.bean.Person;
+import com.youngball.stage.bean.User;
+import com.youngball.stage.bean.apartment_rentBean;
+import com.youngball.stage.bean.house_typeBean;
+import com.youngball.stage.bean.situationBean;
+import com.youngball.stage.service.ApartmentRentService;
+import com.youngball.stage.service.HouseTypeService;
+import com.youngball.stage.service.IPersonService;
+import com.youngball.stage.service.SituationService;
+import com.youngball.stage.utill.ValidateUtill;
+
+@Controller
+@RequestMapping(value="/apartment")
+public class ApartmentController extends ModelDrivenBaseController<apartment_rentBean> implements ServletContextAware{
+	
+	@Resource(name="apartmentRentService")
+	private ApartmentRentService apartmentRentService;
+	
+	@Resource(name="houseTypeService")
+	private HouseTypeService houseTypeService;
+	
+	@Resource(name="situationService")
+	private SituationService situationService;
+	
+	private File imgUrl;
+
+	//接受ServletContext对象
+	private ServletContext sc;
+	
+	//注入ServletContext对象
+	public void setServletContext(ServletContext context) {
+		this.sc = context;
+	}
+	
+	@RequestMapping("/index")
+	public String index(){
+		return "apartment/fcindex";
+	}
+	
+	/**
+	 * 房产首页信息展示
+	 * @return
+	 */
+	@RequestMapping("fcym")
+	public String findAllApartment(HttpServletRequest req){
+		try {
+			//从前台url获取参数
+			String roomStr = req.getParameter("room");
+			String housetype = req.getParameter("housetype");
+			
+			//房屋类型所有数据
+			List<house_typeBean> houseList = houseTypeService.findAllEntity();
+			List<apartment_rentBean> arb = null;
+			
+			if(roomStr != null){
+				Integer room = Integer.parseInt(roomStr);
+				arb = apartmentRentService.findApartmentByRoom(room);
+			}else if(housetype != null){
+				//Integer housetype = Integer.parseInt(housetypeStr);
+				arb = apartmentRentService.findApartmentByHouseType(housetype);
+			}else {
+				arb = apartmentRentService.findAllEntity();
+			}
+			
+			//传到前台
+			req.setAttribute("arb", arb);
+			req.setAttribute("houseList", houseList);
+		} catch (Exception e) {
+			
+		}
+		return "/apartment/fcym";
+	}
+	
+	/**
+	 * 测试一下findEntityByHql
+	 * @param room
+	 * @param req
+	 * @return
+	 */
+	@RequestMapping("fcym2")
+	public String findApartmentByRoom(Integer room,HttpServletRequest req){
+		List<apartment_rentBean> arb = apartmentRentService.findApartmentByRoom(room);
+		req.setAttribute("arb", arb);
+		return "/apartment/fcym";
+	}
+	
+	@RequestMapping("artical")
+	public String artical(){
+		return "/apartment/apartment_artical";
+	}
+	
+	@RequestMapping("message")
+	public String message(){
+		return "/apartment/fcmessage";
+	}
+	
+	/**
+	 * 跳转到保存出租房屋页面
+	 * @return
+	 */
+	@RequestMapping("saveUI")
+	public String messagezu(HttpServletRequest req){
+		List<house_typeBean> houseList = houseTypeService.findAllEntity();
+		List<situationBean> situationList = situationService.findAllEntity();
+		req.setAttribute("situationList", situationList);
+		req.setAttribute("houseList", houseList);
+		return "/apartment/fcmessagezu";
+	}
+	
+	/**
+	 * 保存租房信息
+	 * @param arb
+	 * @return
+	 */
+	@RequestMapping("save")
+	public String saveApartmentRent(apartment_rentBean arb){
+		apartmentRentService.saveEntity(arb);
+		return "redirect:/apartment/fcym";
+	}
+	
+	@RequestMapping(value="json1",method=RequestMethod.GET)
+	public @ResponseBody
+	apartment_rentBean getEntity(@PathVariable("id") int id){
+		apartment_rentBean ab = (apartment_rentBean)apartmentRentService.findAllEntity();
+		return ab;
+	}
+	
+	/**
+	 * 根据id得到apartment_rent的的详情页面
+	 * @param req
+	 * @return
+	 */
+	@RequestMapping(value="info")
+	public String info(HttpServletRequest req){
+		String id = req.getParameter("id");
+		apartment_rentBean arb = apartmentRentService.getEntity(id);
+		req.setAttribute("arb", arb);
+		return "/apartment/apartment_rent_info";
+	}
+
+	/**
+	 * 上传图片方法
+	 * @return
+	 */
+	public void uploadImg(apartment_rentBean arb) {
+		if(ValidateUtill.isValid(arb.getImgUrl())){
+			//上传文件
+				//可以使用这样的方法得到upload的真实路径,但是这种代码方式不优雅,解决:实现一个ServletContextAware的接口注入servletcontext对象
+				//ServletActionContext.getServletContext().getRealPath("/upload");
+			String dir = sc.getRealPath("/upload");
+			//按时间命名图片
+			long i = System.nanoTime();
+			//设置图片后缀名
+			String ext = arb.getImgUrl().substring(arb.getImgUrl().lastIndexOf("."));
+			//命名文件
+			File newFile = new File(dir,i+ext);
+			imgUrl.renameTo(newFile);
+			apartmentRentService.updateImgPath(arb.getId(),"/upload/" + i + ext );
+		}
+		//return "redirect:/apartment/fcym";
+	}
+	
+	
+	
+}

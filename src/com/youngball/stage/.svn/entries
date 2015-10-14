@@ -1,0 +1,43 @@
+10
+
+dir
+26
+https://192.168.0.105/svn/life/stage/src/com/youngball/stage
+https://192.168.0.105/svn/life
+
+
+
+2015-06-07T12:41:44.704352Z
+26
+lpz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d95923c7-c7d7-0545-94f3-2736b2662ed6
+
+service
+dir
+
+controller
+dir
+
+dao
+dir
+
+bean
+dir
+
+utill
+dir
+

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/life/!svn/ver/24/stage/src/com/youngball/stage/controller
+END
+ApartmentController.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/life/!svn/ver/28/stage/src/com/youngball/stage/controller/ApartmentController.java
+END
+UserController.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/life/!svn/ver/16/stage/src/com/youngball/stage/controller/UserController.java
+END
+FreeMarkerTestController.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/life/!svn/ver/2/stage/src/com/youngball/stage/controller/FreeMarkerTestController.java
+END
+ModelDrivenBaseController.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/life/!svn/ver/14/stage/src/com/youngball/stage/controller/ModelDrivenBaseController.java
+END
+PersonController.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/life/!svn/ver/14/stage/src/com/youngball/stage/controller/PersonController.java
+END
+IndexController.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/life/!svn/ver/2/stage/src/com/youngball/stage/controller/IndexController.java
+END
+JobController.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/life/!svn/ver/14/stage/src/com/youngball/stage/controller/JobController.java
+END

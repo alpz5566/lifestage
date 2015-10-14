@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/life/!svn/ver/24/stage/src/com/youngball/stage/service
+END
+UserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/life/!svn/ver/2/stage/src/com/youngball/stage/service/UserService.java
+END
+IPersonService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/life/!svn/ver/2/stage/src/com/youngball/stage/service/IPersonService.java
+END
+SituationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/life/!svn/ver/28/stage/src/com/youngball/stage/service/SituationService.java
+END
+RegionalService.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/life/!svn/ver/14/stage/src/com/youngball/stage/service/RegionalService.java
+END
+ApartmentRentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/life/!svn/ver/28/stage/src/com/youngball/stage/service/ApartmentRentService.java
+END
+EmploymentInfoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/life/!svn/ver/14/stage/src/com/youngball/stage/service/EmploymentInfoService.java
+END
+HouseTypeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/life/!svn/ver/22/stage/src/com/youngball/stage/service/HouseTypeService.java
+END
+CompanyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/life/!svn/ver/8/stage/src/com/youngball/stage/service/CompanyService.java
+END
+BaseService.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/life/!svn/ver/2/stage/src/com/youngball/stage/service/BaseService.java
+END
+EducationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/life/!svn/ver/14/stage/src/com/youngball/stage/service/EducationService.java
+END
+SalaryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/life/!svn/ver/14/stage/src/com/youngball/stage/service/SalaryService.java
+END
+JobtypeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/life/!svn/ver/14/stage/src/com/youngball/stage/service/JobtypeService.java
+END

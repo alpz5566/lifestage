@@ -1,0 +1,11 @@
+*{ margin:0; padding:0;}
+#content_house{height:981px; width:1000px; border:1px solid #b9dcf2; margin:6px auto; background:white;}
+.house_content_11{ margin-top:20px; color:#0148aa; font-family:微软雅黑; font-size:22px; font-weight:normal; padding-left:10px;}
+.center_house{ font-family:宋体;font-size:16px; color:#7a7a7a; font-weight:normal; padding-left:32px; margin-top:15px; margin-bottom:10px; }
+.apartment_production{ width:617px; height:114px; text-indent:2em; font-size:14px; font-family:宋体; color:#b1b1b1; line-height:35px; margin-left:30px; letter-spacing:1px;}
+.house_byside{ width:679px; height:32px; margin-top:9px; }
+.example_{ width:234px; height:32px; margin-left:34px;  float:left;}
+.name_example,.name_example_1{ float:left;  height:30px; border:1px solid #dae2f2; background:#f5f8ff;margin-right:4px; line-height:30px; text-align:center; font-size:14px; font-family:宋体; color:#666666; }
+.name_example{ width:48px;}
+.name_example_1{ width:62px; }
+.soso_map{ width:89px; height:32px; line-height:32px; float:right; background:url(../images/soso.png) no-repeat left top; font-size:14px; font-family:宋体; color:#54a3f0;padding-left:28px; }

@@ -1,0 +1,58 @@
+li{list-style:none;}
+a{text-decoration:none;}
+#content{height:778px; width:1004px; margin:9px auto 11px;}
+#left_content{height:778px; width:383px; float:left;}
+#left_content_firstpart{height:279px; width:382px; background:white; padding-left:1px;}
+#left_content_firstpart h1{font-size:16px; padding:4px 0 0 18px; color:#322800; background:url(../images/img_news_bg.png) no-repeat left top; font-family:微软雅黑; font-weight:normal;}
+#left_content_firstpart h2{font-size:16px; padding-left:18px; margin-top:16px; color:#322800; font-family:微软雅黑; font-weight:normal;}
+#left_content_firstpart h2 a{ color:#322800;}
+#left_content_firstpart h3{font-size:16px; padding-left:18px; margin-top:10px; color:#322800; font-family:微软雅黑; font-weight:normal;}
+#left_content_firstpart h3 a{ color:#322800;}
+.imp_news_p1{font-size:12px; color:#888888; width:334px; padding-left:11px; text-indent:17px; font-family:宋体; line-height:21px; margin-top:6px;}
+
+#left_content_imagespart{height:230px; width:382px; background:white; margin-top:8px; padding-left:1px;}
+#left_content_imagespart h1{font-size:14px; font-weight:normal; color:#7a7567; padding:8px 0 0 18px; background:url(../images/society.png) no-repeat left top; margin-bottom:4px;}
+#left_content_imagespart p{font-size:14px; line-height:32px; padding-left:20px;}
+#left_content_imagespart p a{color:#545454;}
+
+#left_content_threepart{height:252px; width:383px; background:white; margin-top:8px;}
+#left_content_threepart h1{font-size:14px; font-weight:normal; color:#7a7567; padding:8px 0 0 18px; background:url(../images/society.png) no-repeat left top; margin-bottom:6px;}
+#left_content_threepart p{font-size:14px; line-height:32px; padding-left:20px;}
+#left_content_threepart p a{color:#545454;}
+
+#right_content{height:778px; width:610px; float:right;}
+#right_content_firstpart{height:277px; width:610px; background:white;}
+.fire{float:left;}
+.fire_div{height:242px; width:202px; float:right; padding:35px 0 0 16px;}
+.fire_div  h1{font-size:18px; color:#4c4c4c; line-height:30px; width:155px; padding-left:16px;}
+.fire_div  h1 a{ color:#4c4c4c;}
+.fire_div p{width:185px; font-size:12px; text-indent:24px; line-height:20px; margin-top:16px; color:#4c4c4c;}
+
+#right_content_imagestpart{height:493px; width:610px; margin-top:8px;}
+#right_content_imagespart_left{height:493px; width:343px; float:left;}
+.minsheng{height:232px; width:343px; background:white; }
+.minsheng h1{font-size:16px; color:#424242; font-family:微软雅黑; font-weight:normal; background:url(../images/minsheng.png) no-repeat 49px 6px; padding:10px 0 0 12px; margin-bottom:6px;}
+.minsheng p{font-size:14px; padding-left:11px; line-height:30px;}
+.minsheng p a{color:#545454;}
+.tushuo{height:253px; width:331px; background:white; margin-top:8px; padding-left:12px;}
+.tushuo h1{font-size:16px; color:#424242; font-family:微软雅黑; font-weight:normal; padding-top:10px; margin-bottom:19px;}
+.tushuo_dl{float:left; text-align:center; width:98px;}
+.tushuo_dl dt img{display:block; margin-bottom:6px; *margin-bottom:4px;}
+.tushuo_dl dd a{font-size:12px; color:#4b4b4b;}
+.tushuo_dl1{margin-left:10px;}
+.tushuo_dl2{margin-top:12px; _margin-top:10px;}
+#right_content_imagespart_right{height:493px; width:259px; float:right;}
+.video{height:287px; width:259px; background:white;}
+.video h1{font-size:16px; color:#424242; height:40px; line-height:40px; width:243px; background:#e1e1e1 url(../images/video.png) no-repeat 8px 10px; padding-left:16px; font-family:微软雅黑; font-weight:normal;}
+.video_dl1{float:left; text-align:center; width:116px; margin-top:12px;}
+.video_dl1 dt img{display:block; margin-bottom:8px; *margin-bottom:6px;}
+.video_dl1 dd a{font-size:12px; color:#4b4b4b;}
+.video_dl2{margin-left:9px;}
+.video_dl3{margin-left:10px; _margin-left:5px;}
+.video_ul{margin:110px 0 0 11px;}
+.video_ul li{height:32px; line-height:32px;}
+.video_ul li a{font-size:14px; color:#4b4b4b; background:url(../images/video_li_bg.png) no-repeat left center; padding-left:12px;}
+.love{height:187px; width:244px; background:white; margin-top:9px; padding:10px 0 0 15px;}
+.love h1{font-size:18px; color:#9a9a9a;}
+.love p{font-size:14px; line-height:26px;}
+.love p a{color:#545454;}

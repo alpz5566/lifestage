@@ -1,0 +1,10 @@
+package com.youngball.stage.dao.Impl;
+
+import org.springframework.stereotype.Repository;
+
+import com.youngball.stage.bean.house_typeBean;
+
+@Repository("houseTypeDao")
+public class HouseTypeDaoImpl extends BaseDaoImpl<house_typeBean>{
+	
+}

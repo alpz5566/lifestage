@@ -1,0 +1,62 @@
+a{text-decoration:none;}
+li{list-style:none;}
+img{ border:none;}
+#content{height:1114px; width:1000px; border:1px solid #b9dcf2; margin:6px auto; background:white;}
+#content_left{ width:677px; float:left; padding-left:9px;}
+.content_left_h1{width:662px; height:28px; background:url(../images/shouye_h1bg.png) no-repeat left bottom;  font-size:12px; font-weight:normal; padding:10px 0 0 17px; color:#8e8e8e; }
+.content_left_h1 a{ color:#8e8e8e; font-family:宋体;}
+.content_left_h1 a:hover{text-decoration:underline;}
+.cars_content{ margin-top:24px; color:#0148aa; font-family:微软雅黑; font-size:22px; font-weight:normal; padding-left:10px;  margin-bottom:39px;}
+.big_images_cars{ width:676px; height:360px; margin-left:3px; margin-bottom:25px;}
+.big_cars{ width:381px; height:346px; border:1px solid #e1e1e1; float:left; padding:6px;  } 
+.big_images{ width:381px; height:285px; }
+.small_images{ width:55px; height:43px; float:left; padding:7px 1px; border:1px solid #e1e1e1; margin-left:28px; margin-top:3px;}
+.small_images:hover{ border:1px solid #ef7d49; }
+.cars_price_{ width:255px; height:360px; margin-left:18px; float:left;}
+.cars_price_ li{ width:255px; height:28px; line-height:28px; margin-bottom:5px; letter-spacing:1.5px;font-size:14px; font-family:宋体; color:#0e0e0e; }
+.number_wan{ font-size:16px; font-family:微软雅黑; color:#df5858;}
+.content_detailed_description{ width:680px; height:180px;  margin-bottom:20px; margin-top:5px;}
+.detailed_description_1,.detailed_description_2{ width:326px; height:180px; float:left;   }
+.detailed_description_1{ margin-right:8px; }
+.introduction_cars{ width:326px; height:40px; line-height:40px; margin-bottom:5px; font-size:14px; font-family:宋体;}
+.introduction_span1{ display:inline-block; font-weight:bold; color:#343434; padding-left:31px; float:left; }
+.introduction_span2{ display:inline-block; color:#7d7d7d; float:right; }
+.ouman_production{ width:617px; height:150px; margin-bottom:20px; text-indent:2em; font-size:14px; font-family:宋体; line-height:26px; margin-left:32px; letter-spacing:1px;}
+.content_left_h3{height:36px; line-height:36px; width:660px; background:#f5f5f5; padding-left:19px; color:#4f4f4f; font-size:18px; font-weight:normal; font-family:微软雅黑;}
+ .content_left_div4{height:136px; width:622px; padding:11px 0 0 56px;  }
+ .content_left_div4_ul li{float:left;}
+ .content_left_div4_ul_li1{margin-right:42px;}
+ 
+ /* 二手车辆文章页面 */
+ #images_hand_artical_content{width:1000px; height:947px; border:1px solid #b9dcf2; margin:6px auto; background:white;}
+ .images_hand_artical{padding-top:10px;}
+ 
+ #content_right{ width:299px; float:right;}
+ .hengda{margin-top:32px;}
+ .line{margin-top:16px;}
+ .content_right_h1{font-weight:normal; font-size:14px; padding-left:15px; margin-top:12px;}
+ .information{height:94px; width:263px; margin-top:18px; padding-left:15px;}
+ .information p{font-size:14px; line-height:25px;}
+ .p_color1{color:#005e96;}
+ .p_color2{color:#626262;}
+ .p_color2 span{color:#e40001;}
+ 
+ 
+
+.play { width: 392px; height: 360px; float:left;}
+
+.big_pic { width: 381px; height: 285px; margin-left:5px; margin-top:5px; overflow: hidden; border-bottom: 1px solid #ccc; background: #222; position: relative; }
+.big_pic li { width: 381px; height: 285px; overflow: hidden; position: absolute; top: 0; left: 0; z-index: 0; background: url(images/loading.gif) no-repeat center center; }
+.big_pic li img{width:381px; height:285px;}
+.mark_left { width: 190px; height: 285px; position: absolute; left: 0; top: 0;  filter: alpha(opacity:0); opacity: 0; z-index:3000; }
+.mark_right { width: 191px; height: 285px; position: absolute; left: 190px; top: 0; filter: alpha(opacity:0); opacity: 0; z-index:3000; }
+.big_pic .prev { width: 60px; height: 60px; background: url(../images/btn.gif) no-repeat;_background:none; position: absolute; top: 130px; left: 10px; z-index: 3001; cursor: pointer; filter:alpha(opacity: 0); opacity:0; }
+.big_pic .next { width: 60px; height: 60px; background: url(../images/btn.gif) no-repeat 0 -60px;_background:none; position: absolute; top: 130px; right: 10px; z-index: 3001;cursor: pointer; filter:alpha(opacity: 0); opacity:0; }
+
+.big_pic .text { position: absolute; left: 10px; top: 302px; z-index: 3000; color: #ccc; }
+.big_pic .length { position: absolute; right: 10px; bottom: 4px; z-index: 3000; color: #ccc; }
+.big_pic .bg { width: 400px; height: 25px; background: #000; filter: alpha(opacity=60); opacity: 0.6; position: absolute; z-index: 2999; bottom: 0; left: 0; }
+.small_pic { width: 381px; height: 94px; position: relative; top: 7px; left: 10px; overflow: hidden; }
+.small_pic ul { height: 60px; position: absolute; top: 0; left: 25px;}
+.small_pic li { width: 59px; height: 59px; float: left;  padding-right: 28px; background: url(images/loading.gif) no-repeat center center; cursor: pointer; filter: alpha(opacity=60); opacity: 0.6;}
+.small_pic img { width: 55px; height: 41px; margin-top:7px; margin-left:1px; border:1px solid #e1e1e1;}

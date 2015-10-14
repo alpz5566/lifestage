@@ -1,0 +1,14 @@
+
+*{padding:0px; margin:0px;}
+img {border:none;}
+.imageUl{ height:685px;}
+#rightbarTop h1{color:#d64e00;}
+.active{color: #b54200; text-decoration:none;}
+.turn_page_ul{ margin-top:0px; *+margin-top:40px;_margin-top:-40px;}
+.photoblock-many{margin-left:-40px;}
+.greBackground {width:100%;height:940px;position:absolute;top:0;background-color:#000;opacity: 0.1;-ms-filter: "alpha(opacity=60)"; /* IE 8 */ filter: alpha(opacity=60);  /* IE 4-7 */}
+#server{height:585px; width:807px; background:white;  display:block; padding:36px 0 0 44px; overflow-y:scroll; position:absolute; margin-left:260px; z-index:2; display:none; *+margin-left:130px;}
+#server h1{font-size:18px; margin:0 auto; height:16px; margin-bottom:10px; text-align:center;}
+#server p{font-size:12px; line-height:35px;}
+.closebtn{position:absolute; margin-top:-690px; margin-left:1083px; *+margin-top:-684px; *+margin-left:1125px; _margin-left:1123px; _margin-top:-686px; z-index:6; cursor:pointer;}
+.server_p{padding-left:20px;}

@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/life/!svn/ver/16/stage/WebRoot/WEB-INF/lib
+END
+org.springframework.context-3.1.0.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/org.springframework.context-3.1.0.RELEASE.jar
+END
+org.springframework.transaction-3.0.0.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/org.springframework.transaction-3.0.0.RELEASE.jar
+END
+org.springframework.transaction-3.1.0.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/org.springframework.transaction-3.1.0.RELEASE.jar
+END
+com.springsource.net.sf.cglib-2.2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/com.springsource.net.sf.cglib-2.2.0.jar
+END
+org.springframework.core-3.1.0.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/org.springframework.core-3.1.0.RELEASE.jar
+END
+org.springframework.beans-3.1.0.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/org.springframework.beans-3.1.0.RELEASE.jar
+END
+com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/dom4j-1.6.1.jar
+END
+log4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/log4j.jar
+END
+org.springframework.expression-3.1.0.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/org.springframework.expression-3.1.0.RELEASE.jar
+END
+com.springsource.javax.validation-1.0.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/com.springsource.javax.validation-1.0.0.GA.jar
+END
+org.springframework.aspects-3.1.0.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/org.springframework.aspects-3.1.0.RELEASE.jar
+END
+org.springframework.jdbc-3.1.0.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/org.springframework.jdbc-3.1.0.RELEASE.jar
+END
+com.springsource.javax.xml.bind-2.1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/com.springsource.javax.xml.bind-2.1.7.jar
+END
+com.springsource.org.apache.taglibs.standard-1.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/com.springsource.org.apache.taglibs.standard-1.1.2.jar
+END
+commons-fileupload-1.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/commons-fileupload-1.2.2.jar
+END
+junit-4.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/life/!svn/ver/16/stage/WebRoot/WEB-INF/lib/junit-4.4.jar
+END
+freemarker-gae-2.3.22.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/freemarker-gae-2.3.22.jar
+END
+javassist-3.9.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/javassist-3.9.0.GA.jar
+END
+hibernate-validator-4.1.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/hibernate-validator-4.1.0.Final.jar
+END
+jta-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/jta-1.1.jar
+END
+com.springsource.javax.annotation-1.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/com.springsource.javax.annotation-1.0.0.jar
+END
+commons-io-2.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/commons-io-2.0.1.jar
+END
+org.springframework.orm-3.1.0.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/org.springframework.orm-3.1.0.RELEASE.jar
+END
+org.springframework.context.support-3.1.0.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/org.springframework.context.support-3.1.0.RELEASE.jar
+END
+org.springframework.web.servlet-3.1.0.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/org.springframework.web.servlet-3.1.0.RELEASE.jar
+END
+hibernate3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/hibernate3.jar
+END
+commons-collections-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/commons-collections-3.1.jar
+END
+com.springsource.org.aopalliance-1.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/com.springsource.org.aopalliance-1.0.0.jar
+END
+mysql-connector-java-5.0.8-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/mysql-connector-java-5.0.8-bin.jar
+END
+antlr-2.7.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/antlr-2.7.6.jar
+END
+json-lib-2.4-jdk15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/life/!svn/ver/16/stage/WebRoot/WEB-INF/lib/json-lib-2.4-jdk15.jar
+END
+com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+END
+com.springsource.javax.servlet.jsp.jstl-1.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/com.springsource.javax.servlet.jsp.jstl-1.1.2.jar
+END
+org.springframework.web-3.1.0.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/org.springframework.web-3.1.0.RELEASE.jar
+END
+org.springframework.aop-3.1.0.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/org.springframework.aop-3.1.0.RELEASE.jar
+END
+classes12.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/classes12.jar
+END
+slf4j-api-1.5.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/slf4j-api-1.5.8.jar
+END
+org.springframework.asm-3.1.0.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/org.springframework.asm-3.1.0.RELEASE.jar
+END
+com.springsource.org.apache.commons.logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/com.springsource.org.apache.commons.logging-1.1.1.jar
+END
+com.springsource.org.aspectj.tools-1.6.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/com.springsource.org.aspectj.tools-1.6.6.RELEASE.jar
+END
+slf4j-log4j12.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/slf4j-log4j12.jar
+END
+xwork-core-2.1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/life/!svn/ver/2/stage/WebRoot/WEB-INF/lib/xwork-core-2.1.6.jar
+END

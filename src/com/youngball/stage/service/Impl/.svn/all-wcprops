@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/life/!svn/ver/24/stage/src/com/youngball/stage/service/Impl
+END
+JobtypeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/life/!svn/ver/14/stage/src/com/youngball/stage/service/Impl/JobtypeServiceImpl.java
+END
+UserServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/life/!svn/ver/8/stage/src/com/youngball/stage/service/Impl/UserServiceImpl.java
+END
+SituationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/life/!svn/ver/28/stage/src/com/youngball/stage/service/Impl/SituationServiceImpl.java
+END
+RegionalServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/life/!svn/ver/14/stage/src/com/youngball/stage/service/Impl/RegionalServiceImpl.java
+END
+ApartmentRentServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/life/!svn/ver/28/stage/src/com/youngball/stage/service/Impl/ApartmentRentServiceImpl.java
+END
+EmploymentInfoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/life/!svn/ver/14/stage/src/com/youngball/stage/service/Impl/EmploymentInfoServiceImpl.java
+END
+HouseTypeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/life/!svn/ver/22/stage/src/com/youngball/stage/service/Impl/HouseTypeServiceImpl.java
+END
+PersonServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/life/!svn/ver/2/stage/src/com/youngball/stage/service/Impl/PersonServiceImpl.java
+END
+CompanyServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/life/!svn/ver/8/stage/src/com/youngball/stage/service/Impl/CompanyServiceImpl.java
+END
+BaseServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/life/!svn/ver/2/stage/src/com/youngball/stage/service/Impl/BaseServiceImpl.java
+END
+EducationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/life/!svn/ver/14/stage/src/com/youngball/stage/service/Impl/EducationServiceImpl.java
+END
+SalaryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/life/!svn/ver/14/stage/src/com/youngball/stage/service/Impl/SalaryServiceImpl.java
+END
